@@ -8,10 +8,12 @@
       <div class="header clearfix">
         <nav>
           <ul>
-            <li><a href="index.php">Home</a></li>
-            <li><a href="about.php">About</a></li>
-            <li><a href="contacts.php">Contact</a></li>
-            <li><a href="intro.php">Introduction</a></li>
+            <li><a href="index.php">Home</a></li> |
+            <li><a href="about.php">About</a></li> |
+            <li><a href="contacts.php">Contact</a></li> |
+            <li><a href="intro.php">Introduction</a></li> |
+            <a href="visible.php">Visible</a> |
+            <a href="register.php">Register</a> 
           </ul>
         </nav>
         <h3 class="text-muted">PHP Login exercise - Contacts page</h3>

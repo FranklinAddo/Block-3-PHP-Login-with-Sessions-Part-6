@@ -7,7 +7,8 @@
         <a href="about.php">About</a> |
         <a href="contacts.php">Contact</a> |
         <a href="intro.php">Intro</a> |
-        <a href="Visible.php">Visible</a>
+        <a href="visible.php">Visible</a> |
+        <a href="register.php">Register</a> 
     </nav><br><br>
 
     <h1>Welcome</h1>    

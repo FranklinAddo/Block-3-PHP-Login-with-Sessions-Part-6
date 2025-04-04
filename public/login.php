@@ -52,6 +52,9 @@ if(isset($_POST['Submit'])) {
             </label>
         </div>
         <button name="Submit" value="Login" class="button" type="submit">Sign in</button>
+
+        <br><br>
+        <a href="register.php" class="button">Create an account</a>
     </form>
 </div>
 </body>
